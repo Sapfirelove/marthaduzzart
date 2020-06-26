@@ -49,7 +49,7 @@ function Home() {
                             <Card.Text className="pt-3">
                                 Want to purchase one of my artwork on merchandise?
                             </Card.Text>
-                            <Button variant="dark">Shop Now!</Button>
+                            <Button variant="dark"><a href="https://www.redbubble.com/people/marthaschiebel/shop" style={{color:'#fff'}}>Shop Now</a></Button>
                         </Card.Body>
                     </Card>
                 </CardDeck>
